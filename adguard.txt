@@ -1,0 +1,28 @@
+! === TikTok ads/tracking ===
+||ads.tiktok.com^
+||ads-api.tiktok.com^
+||ads-api-live.tiktok.com^
+||business-api.tiktok.com^
+||business-api-sg.tiktok.com^
+||analytics.tiktok.com^
+||analytics-sg.tiktok.com^
+||pixel.tiktok.com^
+||ads.tiktokv.com^
+||ads-api.tiktokv.com^
+||mon.tiktokv.com^
+||log.tiktokv.com^
+
+! === YouTube / Google ads-tracking (non-video-player ads) ===
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+||google-analytics.com^
+||googletagmanager.com^
+||googletagservices.com^
+||pagead2.googlesyndication.com^
+
+! === Instagram / Meta ads-tracking ===
+||an.facebook.com^
+||ads.facebook.com^
+||adnxs.com^
